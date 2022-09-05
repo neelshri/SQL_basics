@@ -15,7 +15,6 @@ Below are the concepts which I have learned with the help of this sample databas
     Sorting query results using ORDER BY
     Combining data from two or more tables using JOINS
     Creating reports with GROUP BY
-    More than 50 example queries, tips and ideas
 
 This dataset came with an additional questions for practise. Below are those mentioned questions;
 
